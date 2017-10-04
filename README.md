@@ -1,7 +1,21 @@
 # OpenC64Cart
-Open Hardware 8Kb Cartridge for the Commodore 64
+OpenC64Cart is an Open Hardware 8 Kb Cartridge for the Commodore 64.
 
-## Thanks
+![Board](https://raw.githubusercontent.com/SukkoPera/OpenC64Cart/master/doc/render-top.png)
+
+### Summary
+TBD
+
+### Installation
+TBD
+
+### Configuration
+TBD
+
+### License
+OpenC64Cart is Open Hardware.
+
+### Thanks
 
 - https://www.c64-wiki.com/wiki/Expansion_Port
 - http://blog.worldofjani.com/?p=879
