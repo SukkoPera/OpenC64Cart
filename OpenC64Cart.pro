@@ -1,4 +1,4 @@
-update=ven 21 lug 2017 22:52:56 CEST
+update=mer 04 ott 2017 21:36:27 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -55,3 +55,13 @@ LibName23=atmel
 LibName24=contrib
 LibName25=switches
 LibName26=lib/C64-Exp-Port
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
