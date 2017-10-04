@@ -639,10 +639,10 @@
       (net 31 "Net-(P6-Pad2)"))
     (pad 3 thru_hole oval (at 0 5.08 90) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask)
       (net 1 GND))
-    (model Pin_Headers.3dshapes/Pin_Header_Straight_1x03.wrl
-      (at (xyz 0 -0.1 0))
+    (model Pin_Headers.3dshapes/Pin_Header_Straight_1x03_Pitch2.54mm.wrl
+      (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 0 0))
     )
   )
 
@@ -667,10 +667,10 @@
       (net 30 "Net-(P5-Pad2)"))
     (pad 3 thru_hole oval (at 0 5.08 90) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask)
       (net 1 GND))
-    (model Pin_Headers.3dshapes/Pin_Header_Straight_1x03.wrl
-      (at (xyz 0 -0.1 0))
+    (model Pin_Headers.3dshapes/Pin_Header_Straight_1x03_Pitch2.54mm.wrl
+      (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 0 0))
     )
   )
 
@@ -695,10 +695,10 @@
       (net 29 "Net-(P4-Pad2)"))
     (pad 3 thru_hole oval (at 0 5.08 90) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask)
       (net 1 GND))
-    (model Pin_Headers.3dshapes/Pin_Header_Straight_1x03.wrl
-      (at (xyz 0 -0.1 0))
+    (model Pin_Headers.3dshapes/Pin_Header_Straight_1x03_Pitch2.54mm.wrl
+      (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 0 0))
     )
   )
 
@@ -723,10 +723,10 @@
       (net 4 "Net-(P1-Pad2)"))
     (pad 3 thru_hole oval (at 0 5.08 90) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask)
       (net 5 "Net-(P1-Pad3)"))
-    (model Pin_Headers.3dshapes/Pin_Header_Straight_1x03.wrl
-      (at (xyz 0 -0.1 0))
+    (model Pin_Headers.3dshapes/Pin_Header_Straight_1x03_Pitch2.54mm.wrl
+      (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 0 0))
     )
   )
 
@@ -749,10 +749,10 @@
       (net 28 "Net-(P3-Pad1)"))
     (pad 2 thru_hole oval (at 0 2.54 90) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask)
       (net 1 GND))
-    (model Pin_Headers.3dshapes/Pin_Header_Straight_1x02.wrl
-      (at (xyz 0 -0.05 0))
+    (model Pin_Headers.3dshapes/Pin_Header_Straight_1x02_Pitch2.54mm.wrl
+      (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 0 0))
     )
   )
 
@@ -775,10 +775,10 @@
       (net 27 "Net-(P2-Pad1)"))
     (pad 2 thru_hole oval (at 0 2.54 90) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask)
       (net 1 GND))
-    (model Pin_Headers.3dshapes/Pin_Header_Straight_1x02.wrl
-      (at (xyz 0 -0.05 0))
+    (model Pin_Headers.3dshapes/Pin_Header_Straight_1x02_Pitch2.54mm.wrl
+      (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 0 0))
     )
   )
 
