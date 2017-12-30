@@ -32,8 +32,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "C64 8K Lo/Hi-Rom Cartridge"
-Date "2017-07-21"
-Rev ""
+Date "2017-12-30"
+Rev "V2"
 Comp "SukkoPera"
 Comment1 "Thanks to http://blog.worldofjani.com/?p=879"
 Comment2 ""
@@ -46,7 +46,7 @@ U 1 1 59713F4B
 P 4100 3950
 F 0 "U1" H 4100 3850 50  0000 C CNN
 F 1 "C64-Exp-Port" H 4100 5250 50  0000 C CNN
-F 2 "Sukko:C64-Cart" H 4100 3950 50  0001 C CNN
+F 2 "OpenC64Cart:C64-Cart" H 4100 3950 50  0001 C CNN
 F 3 "https://www.c64-wiki.com/wiki/Expansion_Port" H 4100 3950 50  0001 C CNN
 	1    4100 3950
 	-1   0    0    1   
@@ -57,7 +57,7 @@ U 1 1 597140F9
 P 9100 1550
 F 0 "C1" H 9125 1650 50  0000 L CNN
 F 1 "C" H 9125 1450 50  0000 L CNN
-F 2 "smd_cap:c_0805" H 9138 1400 50  0001 C CNN
+F 2 "OpenC64Cart:C_0805+THT" H 9138 1400 50  0001 C CNN
 F 3 "" H 9100 1550 50  0000 C CNN
 	1    9100 1550
 	-1   0    0    1   
@@ -429,7 +429,7 @@ U 1 1 5971547B
 P 5200 4500
 F 0 "P2" H 5200 4650 50  0000 C CNN
 F 1 "CONN_01X02" V 5300 4500 50  0001 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x02" H 5200 4500 50  0001 C CNN
+F 2 "OpenC64Cart:Pin_Header_Straight_1x02-NoSilkS" H 5200 4500 50  0001 C CNN
 F 3 "" H 5200 4500 50  0000 C CNN
 	1    5200 4500
 	0    -1   1    0   
@@ -440,7 +440,7 @@ U 1 1 597157A2
 P 5600 4400
 F 0 "P3" H 5600 4550 50  0000 C CNN
 F 1 "CONN_01X02" V 5700 4400 50  0001 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x02" H 5600 4400 50  0001 C CNN
+F 2 "OpenC64Cart:Pin_Header_Straight_1x02-NoSilkS" H 5600 4400 50  0001 C CNN
 F 3 "" H 5600 4400 50  0000 C CNN
 	1    5600 4400
 	0    -1   1    0   
@@ -491,7 +491,7 @@ U 1 1 59715C53
 P 4100 6000
 F 0 "P1" H 4100 6200 50  0000 C CNN
 F 1 "CONN_01X03" V 4200 6000 50  0001 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03" H 4100 6000 50  0001 C CNN
+F 2 "OpenC64Cart:Pin_Header_Straight_1x03-NoSilkS" H 4100 6000 50  0001 C CNN
 F 3 "" H 4100 6000 50  0000 C CNN
 	1    4100 6000
 	0    -1   -1   0   
@@ -564,7 +564,7 @@ U 1 1 597269BF
 P 2250 4800
 F 0 "SW1" H 2250 5050 50  0000 C CNN
 F 1 "RESET_SW" H 2250 4650 50  0000 C CNN
-F 2 "w_switch:PCB_PUSH" H 2250 4800 50  0001 C CNN
+F 2 "OpenC64Cart:PCB_PUSH" H 2250 4800 50  0001 C CNN
 F 3 "" H 2250 4800 50  0000 C CNN
 	1    2250 4800
 	1    0    0    -1  
@@ -601,7 +601,7 @@ U 1 1 597272F6
 P 6850 4550
 F 0 "P4" H 6850 4750 50  0000 C CNN
 F 1 "CONN_01X03" V 6950 4550 50  0001 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03" H 6850 4550 50  0001 C CNN
+F 2 "OpenC64Cart:Pin_Header_Straight_1x03-NoSilkS" H 6850 4550 50  0001 C CNN
 F 3 "" H 6850 4550 50  0000 C CNN
 	1    6850 4550
 	-1   0    0    -1  
@@ -612,7 +612,7 @@ U 1 1 5972743E
 P 7300 4550
 F 0 "P5" H 7300 4750 50  0000 C CNN
 F 1 "CONN_01X03" V 7400 4550 50  0001 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03" H 7300 4550 50  0001 C CNN
+F 2 "OpenC64Cart:Pin_Header_Straight_1x03-NoSilkS" H 7300 4550 50  0001 C CNN
 F 3 "" H 7300 4550 50  0000 C CNN
 	1    7300 4550
 	-1   0    0    -1  
@@ -623,7 +623,7 @@ U 1 1 59727475
 P 7700 4550
 F 0 "P6" H 7700 4750 50  0000 C CNN
 F 1 "CONN_01X03" V 7800 4550 50  0001 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03" H 7700 4550 50  0001 C CNN
+F 2 "OpenC64Cart:Pin_Header_Straight_1x03-NoSilkS" H 7700 4550 50  0001 C CNN
 F 3 "" H 7700 4550 50  0000 C CNN
 	1    7700 4550
 	-1   0    0    -1  
@@ -680,4 +680,28 @@ Wire Wire Line
 Wire Wire Line
 	7050 4350 7100 4350
 Connection ~ 7050 4350
+$Comp
+L Conn_01x01 J99
+U 1 1 5A47B067
+P 11025 6250
+F 0 "J99" H 11025 6350 50  0000 C CNN
+F 1 "PEG_HOLE" H 11025 6150 50  0000 C CNN
+F 2 "Connectors:1pin" H 11025 6250 50  0001 C CNN
+F 3 "" H 11025 6250 50  0001 C CNN
+	1    11025 6250
+	0    1    1    0   
+$EndComp
+$Comp
+L Conn_01x01 J98
+U 1 1 5A47B1EF
+P 10750 6250
+F 0 "J98" H 10750 6350 50  0000 C CNN
+F 1 "OSHW_LOGO" H 10750 6150 50  0000 C CNN
+F 2 "w_logo:Logo_copper_OSHW_12x13mm" H 10750 6250 50  0001 C CNN
+F 3 "" H 10750 6250 50  0001 C CNN
+	1    10750 6250
+	0    1    1    0   
+$EndComp
+NoConn ~ 10750 6050
+NoConn ~ 11025 6050
 $EndSCHEMATC
