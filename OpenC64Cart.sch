@@ -31,9 +31,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "C64 8K Lo/Hi-Rom Cartridge"
-Date "2017-12-30"
-Rev "V2"
+Title "OpenC64Cart: C64 8K Lo/Hi-Rom Cartridge"
+Date "2018-01-04"
+Rev "2"
 Comp "SukkoPera"
 Comment1 "Thanks to http://blog.worldofjani.com/?p=879"
 Comment2 ""
