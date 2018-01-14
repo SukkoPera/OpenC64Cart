@@ -1,4 +1,4 @@
-update=gio 04 gen 2018 01:41:58 CET
+update=dom 14 gen 2018 23:57:57 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -53,8 +53,6 @@ LibName23=atmel
 LibName24=contrib
 LibName25=switches
 LibName26=lib/C64-Exp-Port
-[general]
-version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -65,3 +63,5 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[general]
+version=1
