@@ -34,10 +34,10 @@ You will also need to configure the ROM and EXROM/GAME jumpers for the chosen im
 | Mode        | ROM  | GAME  | EXROM | Notes |
 |-------------|------|-------|-------|-------|
 | ROML        |  LO  | Open  | Close | Most common setting
-| ROMH        |  HI  | Open  | Close | Used for 16 KB cartridges, so does not apply here
+| ROMH        |  HI  | Close | Close | Used for 16 KB cartridges, so does not apply here
 | Ultimax     |  HI  | Close | Open  | Originally used for cartridges for the Japanese MAX Machine, will work even if the kernal ROM is damaged |
  
-Note that GAME and EXROM are NEVER closed at the same time.
+Note that with this cartridge GAME and EXROM must NEVER closed at the same time.
  
 ### License
 OpenC64Cart is Open Hardware. If you make any modifications to the board, please contribute them back.
